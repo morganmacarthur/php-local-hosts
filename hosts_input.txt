@@ -1,0 +1,3 @@
+# use 0.0.0.0 if you want the script to look up the ip address
+# use an actual ip address in place of 0.0.0.0 to bypass the lookup
+0.0.0.0 example.com
